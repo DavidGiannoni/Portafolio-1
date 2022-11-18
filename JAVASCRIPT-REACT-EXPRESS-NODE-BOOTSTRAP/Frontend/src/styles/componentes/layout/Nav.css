@@ -1,0 +1,32 @@
+nav {
+    background-color: rgb(152, 72, 206);
+    margin-bottom: 5em;    
+}
+
+nav ul {
+    list-style:none;
+    margin: 2px;
+    padding:0;
+}
+
+nav ul li {
+    display:inline-block;
+    width:19.0%;
+}
+
+nav ul li a {
+    color: rgb(17, 15, 15);
+    text-decoration:none;
+    text-align:center;
+    padding: 0.2em 0.2em;
+    display: block;
+    position: relative;
+}
+
+nav ul li a:hover {
+    background:rgba(93, 25, 149, 0.3);
+}
+
+nav ul li a.activo {
+    background: rgba(255, 255, 0, 0.664);
+}

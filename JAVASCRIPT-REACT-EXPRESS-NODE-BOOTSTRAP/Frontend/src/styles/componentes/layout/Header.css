@@ -1,0 +1,17 @@
+header {
+    background-color:rgb(250, 250, 250);
+    padding: 1em 1;
+}
+
+header h1 {
+    color:rgb(47, 180, 180);
+    font-size: 2.5em;
+    font-style: normal;
+    font-weight: 100;
+    display: inline-block;
+    position: relative;
+    bottom: .8em;
+    margin: 1;
+}
+
+
